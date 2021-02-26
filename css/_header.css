@@ -83,6 +83,10 @@
 	margin-bottom: 5px;
 }
 
+.header-info__phone:hover {
+	text-decoration: underline;
+}
+
 .header-info__city {
 	font-size: 16px;
 	font-weight: 400;
