@@ -65,6 +65,18 @@
 	background-color: #bb353e;
 }
 
+@media (max-width: 1024px) {
+	.main-container {
+		max-width: 800px;
+	}
+}
+
+@media (max-width: 768px) {
+	.main-container {
+		max-width: 600px;
+	}
+}
+
 @media (max-width: 425px) {
 	.main-form__button {
 		padding: 16px 43px;
