@@ -1,6 +1,7 @@
 @import url(_header.css);
 @import url(_main.css);
 @import url(_news.css);
+@import url(_footer.css);
 
 body {
 	font-family: "Ubuntu", sans-serif;

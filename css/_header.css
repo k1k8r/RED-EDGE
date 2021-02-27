@@ -61,14 +61,14 @@
 	margin-left: 33px;
 }
 
-.header-link {
+.header__link {
 	font-size: 18px;
 	font-weight: 400;
 	text-decoration: none;
 	color: #2b2b2b;
 }
 
-.header-link:hover {
+.header__link:hover {
 	color: #bb353e;
 	cursor: pointer;
 }
@@ -196,7 +196,7 @@
 		margin: 0 0 20px 0;
 	}
 
-	.header-link {
+	.header__link {
 		font-size: 24px;
 	}
 
